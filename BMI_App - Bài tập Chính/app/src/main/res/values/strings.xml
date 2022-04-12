@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="male">Male</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="_00">00</string>
+    <string name="calculate_your_bmi">Calculate your BMI</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="calculate_bmi_again">Calculate BMI Again</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="Canh_bao">Please Input Weight and Height Values greater than 0</string>
+    <string name="underweight">underweight</string>
+    <string name="Normal">Normal</string>
+    <string name="Overweight">Overweight</string>
+    <string name="Obese">Obese</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+</resources>

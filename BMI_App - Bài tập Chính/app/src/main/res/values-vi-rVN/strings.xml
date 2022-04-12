@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tính toán BMI</string>
+    <string name="male">Nữ</string>
+    <string name="height_cm">Chiều cao (cm)</string>
+    <string name="_00">00</string>
+    <string name="calculate_your_bmi">Tính BMI của bạn</string>
+    <string name="your_bmi">BMI của bạn</string>
+    <string name="calculate_bmi_again">Tính lại BMI</string>
+    <string name="weight_kg">Cân nặng (kg)</string>
+    <string name="Canh_bao">Vui lòng nhập chiều cao và cân nặng trên 0</string>
+    <string name="underweight">Thiếu cân</string>
+    <string name="Normal">Bình thường</string>
+    <string name="Overweight">Thừa cân</string>
+    <string name="Obese">Béo phì</string>
+    <string name="bmi_calculator">Tính toán BMI</string>
+</resources>
